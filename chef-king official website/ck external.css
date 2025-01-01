@@ -1,0 +1,92 @@
+/*side nav*/
+.sidenav {
+  height: 100%;
+  width:0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color:#e3c69d;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 30px;
+  display: block;
+  transition: 0.3s;
+  color:black;
+  font-weight: bold;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+/*area content*/
+
+
+.area-p
+		{
+			font-size:20px;
+			color:#635b5a;
+			font-family:Helvetica;
+			font-weight:bold;
+		}
+.topic
+{
+	font-weight: bold;
+	color:black;
+
+}
+.area-bg
+{
+	background-color:#eee;
+}
+/*footer  css*/
+.chef-king
+{
+    font-size:60px;
+	font-family:Lucida Handwriting;
+	font-weight:bold; 
+	color:black;
+}
+
+.tel
+{
+	color:red;
+	font-weight:bold;
+	font-size:22px;
+
+}
+.mail
+{
+	font-weight: bold;
+	color: black;
+	font-size:20px;
+}
+.last-div
+{
+	background-color:black;
+	color:yellow;
+	font-weight:bolder;
+	font-size:20px;
+	text-align: center;
+}
+
