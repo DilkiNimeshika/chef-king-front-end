@@ -1,7 +1,6 @@
 # chef-king-front-end
 Chef King is a visually captivating and user-friendly restaurant website designed to provide customers with a seamless experience.
-Chef King - Official Website 🍽️✨
-Chef King is a visually captivating and user-friendly restaurant website designed to provide customers with a seamless experience. Featuring an elegant and responsive design, it offers all the essential features to showcase your culinary expertise and connect with your audience.
+Chef King - Official Website 🍽️✨ Featuring an elegant and responsive design, it offers all the essential features to showcase your culinary expertise and connect with your audience.
 
 🌟 Features
 Modern Design: Aesthetic visuals paired with intuitive navigation for a premium user experience.
